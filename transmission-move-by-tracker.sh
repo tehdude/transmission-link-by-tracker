@@ -1,3 +1,5 @@
+#!/bin/sh
+
 REMOTE="transmission-remote localhost"
 DESTDIR="/mnt/sda1/download/music"
 TRACKER="ubuntu\.com"
